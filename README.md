@@ -1,6 +1,9 @@
 - 👋 Hi, I’m @TEMPTUN
 - 🌱 I’m  a Full Stack Developer
 - 👀 I’m interested in Web Technolgies
+- 🐬 Working with Data structure algorithm 
+- 🐟 Started with System design
+- 🐠 Nd lots more coming... 
 
 
 <!---
